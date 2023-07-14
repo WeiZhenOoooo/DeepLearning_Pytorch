@@ -3,5 +3,5 @@
 
 | desc           | path                                                         |
 | -------------- | ------------------------------------------------------------ |
-| 图像分类：叶子 | [code](https://github.com/WeiZhenOoooo/DeepLearning_Pytorch/blob/main/notebooks/classify_leaves/classify-leaves-resnet.ipynb) |
+| 基于卷积神经网络的叶子图像分类： | [code](https://github.com/WeiZhenOoooo/DeepLearning_Pytorch/blob/main/notebooks/classify_leaves/classify-leaves-resnet.ipynb) |
 
