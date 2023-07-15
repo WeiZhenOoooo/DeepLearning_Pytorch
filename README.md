@@ -3,6 +3,6 @@
 
 | desc           | path                                                         |
 | -------------- | ------------------------------------------------------------ |
-| 基于卷积神经网络的叶子图像分类(单GPU) | [code](https://github.com/WeiZhenOoooo/DeepLearning_Pytorch/blob/main/notebooks/classify_leaves/classify-leaves-resnet.ipynb) |
+| 基于卷积神经网络ResNet-50叶子图像单标签分类(单GPU) | [code](https://github.com/WeiZhenOoooo/DeepLearning_Pytorch/blob/main/notebooks/classify_leaves/classify-leaves-resnet.ipynb) |
 | 基于AutoML的California房价预测(CPU) | [code](https://github.com/WeiZhenOoooo/DeepLearning_Pytorch/blob/main/notebooks/california_houseprices/automl_houseprices.ipynb) |
 
